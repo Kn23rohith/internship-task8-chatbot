@@ -1,0 +1,12 @@
+Each screenshot demonstrates ChatPy's capability as a rule-based assistant.
+
+1. Greets based on time of day.
+2. Coding path: Logic building, DSA, Projects.
+3. Study support: focus, time, and motivation.
+4. Career guidance: Resume, LinkedIn, Job portals.
+5. Motivation and productivity tips with resources.
+6. Live sports updates: e.g., Shubman Gill, Jota.
+7. Latest film/OTT news and reviews.
+8. Robust fallback handling for unknown inputs.
+
+These screenshots highlight ChatPy's logic flow, personalized responses, and multi-topic support—all built using Python's control flow and input/output handling.
